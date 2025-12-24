@@ -1,0 +1,631 @@
+{
+  "businessName": "Mein Laden",
+  "tagline": "Essen. Service. Liebe.",
+  "description": "Dies ist eine Standardbeschreibung für die Sektion 'Über uns'. Sie können diesen Text im Editor bearbeiten.",
+  "address": "Musterstraße 1, 12345 Stadt",
+  "phone": "+49 123 456789",
+  "hours": "Mo-Fr: 10:00 - 20:00\nSa: 11:00 - 18:00",
+  "accent": "#3b82f6",
+  "layoutTemplate": "freestyleApple",
+  "logoDataUrl": "",
+  "backgroundColor": "#f8fafc",
+  "backgroundImage": "",
+  "backgroundVideoUrl": "",
+  "backgroundSize": "cover",
+  "fontSizeName": 38,
+  "fontSizeDesc": 18,
+  "logoWidth": 120,
+  "logoHeight": 120,
+  "slideshowWidth": 250,
+  "slideshowHeight": 180,
+  "fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif",
+  "fontWeight": "normal",
+  "fontColor": "#334155",
+  "bgSections": {
+    "about": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "contact": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "products": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "team": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "faq": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "blog": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "news": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "jobs": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "projects": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "prices": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "events": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "gallery": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "partners": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "newsletter": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "contactForm": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "bookingSystem": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "downloads": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "freestyle": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "calendar": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "menu": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "history": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "imprint": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "privacy": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "reviews": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "todoList": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    },
+    "shoppingList": {
+      "color": "#ffffff",
+      "image": "",
+      "titleFontFamily": "",
+      "titleFontSize": 28,
+      "titleFontColor": "",
+      "titleFontWeight": "bold"
+    }
+  },
+  "transparentSections": false,
+  "transparentNavbar": true,
+  "navbarFontColor": "#475569",
+  "navbarFontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif",
+  "navbarBorderColor": "#e2e8f0",
+  "navbarBorderWidth": 1,
+  "navbarBorderStyle": "solid",
+  "navbarCustomTabNames": {
+    "freestyle-section-057dc573-e85b-4a5b-851b-65f7dc66790a": "Home",
+    "freestyle-section-9c644539-e1de-44d4-9558-fde2d1cde937": "Sobre Nosotros",
+    "freestyle-section-34087b9f-b0a6-441d-9dd7-2f6605997dcd": "Productos",
+    "freestyle-section-cfef5883-a472-44ed-a3c0-c7d9064a8530": "Info",
+    "freestyle-section-f3982d61-ceb5-4bc8-a02a-26e468170436": "Equipo"
+  },
+  "showSlideshow": true,
+  "showServices": true,
+  "showTeam": true,
+  "showFAQ": true,
+  "showBlog": true,
+  "showNews": true,
+  "showJobs": true,
+  "showProjects": true,
+  "showPrices": true,
+  "showEvents": true,
+  "showGallery": true,
+  "showPartners": true,
+  "showNewsletter": true,
+  "showContactForm": true,
+  "showBookingSystem": true,
+  "showDownloads": true,
+  "showMap": true,
+  "showLanguageSelector": false,
+  "showTodoList": true,
+  "showShoppingList": true,
+  "slideshowImages": [],
+  "services": [
+    {
+      "title": "Neues Produkt",
+      "description": "Beschreibung",
+      "image": ""
+    }
+  ],
+  "team": [
+    {
+      "name": "Neues Mitglied",
+      "position": "Aufgabe",
+      "photo": ""
+    }
+  ],
+  "faq": [
+    {
+      "question": "Öffnungszeiten?",
+      "answer": "Mo-Fr 10-20"
+    }
+  ],
+  "blogPosts": [
+    {
+      "title": "Neuer Blogpost",
+      "content": "Inhalt des Blogposts...",
+      "image": ""
+    }
+  ],
+  "newsItems": [
+    {
+      "title": "Wichtige Neuigkeit",
+      "content": "Hier ist die neueste Nachricht.",
+      "date": "2023-10-27"
+    }
+  ],
+  "jobListings": [
+    {
+      "title": "Webentwickler gesucht",
+      "location": "Ort",
+      "description": "Wir suchen einen erfahrenen Webentwickler."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Neues Projekt",
+      "description": "Beschreibung des Projekts.",
+      "image": ""
+    }
+  ],
+  "pricingPlans": [
+    {
+      "title": "Neuer Plan",
+      "price": "€XX/Monat",
+      "features": [
+        "Feature 1",
+        "Feature 2"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "title": "Neues Event",
+      "date": "2024-08-15",
+      "description": "Beschreibung des Events."
+    }
+  ],
+  "galleryImages": [],
+  "partners": [
+    {
+      "name": "Neuer Partner",
+      "logo": ""
+    }
+  ],
+  "newsletterText": "Melden Sie sich für unseren Newsletter an, um die neuesten Updates zu erhalten!",
+  "contactFormRecipientEmail": "info@example.com",
+  "bookingSystemRecipientEmail": "booking@example.com",
+  "mapEmbedUrl": "",
+  "downloads": [],
+  "whatsappNumber": "",
+  "instagramUrl": "",
+  "tiktokUrl": "",
+  "facebookUrl": "",
+  "templatesEnabled": false,
+  "selectedTemplate": "",
+  "freestyleSections": [
+    {
+      "id": "057dc573-e85b-4a5b-851b-65f7dc66790a",
+      "name": "Freestyle 1",
+      "blocks": [
+        {
+          "id": "e1eca847-d098-418a-8eaf-a23c8e1e4f6e",
+          "type": "heading",
+          "value": "Mirian Nutrition",
+          "styles": {
+            "level": "h2",
+            "textAlign": "center",
+            "verticalPosition": 0,
+            "optional": false,
+            "fontSize": 75,
+            "fontFamily": "Garamond",
+            "fontWeight": "bold",
+            "fontColor": "white"
+          }
+        }
+      ],
+      "styles": {
+        "width": "100%",
+        "backgroundColor": "#ffffff",
+        "backgroundImage": "images/backgroundImage_0.jpeg"
+      }
+    },
+    {
+      "id": "9c644539-e1de-44d4-9558-fde2d1cde937",
+      "name": "Freestyle 2",
+      "blocks": [
+        {
+          "id": "30c124cd-c940-4375-a222-b3078ac6ad5e",
+          "type": "heading",
+          "value": "Sobre Nosotros",
+          "styles": {
+            "level": "h2",
+            "textAlign": "center",
+            "verticalPosition": 0,
+            "optional": false,
+            "fontSize": 50,
+            "fontFamily": "",
+            "fontWeight": "extrabold",
+            "fontColor": "white"
+          }
+        },
+        {
+          "id": "bcb15bcf-d44d-41bd-9847-635edfbb919d",
+          "type": "text",
+          "value": "Somos una marca de suplementos enfocada en claridad, transparencia y evidencia científica.\nNuestro objetivo no es vender promesas, sino ofrecer productos con ingredientes claros, dosis correctas y explicaciones comprensibles.\nCreemos que muchas marcas complican innecesariamente la suplementación. Nosotros hacemos lo contrario:\nformulaciones simples, información accesible y decisiones basadas en ciencia, no en tendencias.\nTodos nuestros productos se desarrollan siguiendo estándares de calidad europeos, con un enfoque en seguridad, funcionalidad y control de materias primas.Esta marca está pensada para personas activas que quieren entender lo que consumen, no solo comprarlo.",
+          "styles": {
+            "textAlign": "left",
+            "verticalPosition": 0,
+            "fontSize": 16,
+            "fontFamily": "",
+            "fontWeight": "normal",
+            "fontColor": "gray"
+          }
+        }
+      ],
+      "styles": {
+        "width": "100%",
+        "backgroundColor": "black",
+        "backgroundImage": ""
+      }
+    },
+    {
+      "id": "34087b9f-b0a6-441d-9dd7-2f6605997dcd",
+      "name": "Freestyle 3",
+      "blocks": [
+        {
+          "id": "c61decc4-3970-4c83-b1de-31caffab1808",
+          "type": "heading",
+          "value": "Productos",
+          "styles": {
+            "level": "h2",
+            "textAlign": "center",
+            "verticalPosition": 0,
+            "optional": false,
+            "fontSize": 50,
+            "fontFamily": "",
+            "fontWeight": "extrabold",
+            "fontColor": "white"
+          }
+        },
+        {
+          "id": "2b682c61-0951-4ca1-90bb-3bf8128956d0",
+          "type": "layout-container",
+          "blocks": [
+            {
+              "id": "bc366925-d4f1-4a51-b19d-3bc99b098f14",
+              "type": "products",
+              "products": [
+                {
+                  "title": "Whey Gold Standard",
+                  "description": "",
+                  "image": "images/image_1.jpeg"
+                }
+              ],
+              "styles": {
+                "verticalPosition": 0
+              }
+            },
+            {
+              "id": "7f7e5562-f2e8-431b-8c0b-5b06c206e1ad",
+              "type": "products",
+              "products": [
+                {
+                  "title": "Creatin Powder",
+                  "description": "",
+                  "image": "images/image_2.jpeg"
+                },
+                {
+                  "title": "Whey Protein chocolate",
+                  "description": "",
+                  "image": "images/image_3.jpeg"
+                },
+                {
+                  "title": "Whey Protein mango",
+                  "description": "",
+                  "image": "images/image_4.jpeg"
+                }
+              ],
+              "styles": {
+                "verticalPosition": 0
+              }
+            }
+          ],
+          "styles": {
+            "display": "flex",
+            "flexDirection": "row",
+            "gap": 16,
+            "justifyContent": "flex-start",
+            "alignItems": "stretch"
+          }
+        }
+      ],
+      "styles": {
+        "width": "100%",
+        "backgroundColor": "black",
+        "backgroundImage": ""
+      }
+    },
+    {
+      "id": "cfef5883-a472-44ed-a3c0-c7d9064a8530",
+      "name": "Freestyle 4",
+      "blocks": [
+        {
+          "id": "105c4c4d-475e-403d-a48f-a6898f06cdd3",
+          "type": "heading",
+          "value": "Info",
+          "styles": {
+            "level": "h2",
+            "textAlign": "center",
+            "verticalPosition": 0,
+            "optional": false,
+            "fontSize": 50,
+            "fontFamily": "",
+            "fontWeight": "extrabold",
+            "fontColor": "white"
+          }
+        },
+        {
+          "id": "177b9d8b-c5c5-46a8-99d6-1d7073715200",
+          "type": "text",
+          "value": "Si entrenas con regularidad, los suplementos pueden ser un gran aliado para mejorar tus resultados y optimizar tu rendimiento. Entre todos ellos, la creatina es uno de los más estudiados y respaldados por la ciencia. Su uso constante puede ayudarte a aumentar la fuerza y la masa muscular de manera más rápida, mejorar el rendimiento durante esfuerzos cortos e intensos y acelerar la recuperación después de entrenamientos exigentes.\n\nAdemás de sus beneficios físicos, la creatina también puede tener un impacto positivo en las funciones cognitivas, como la memoria, la concentración y la capacidad de atención, lo que puede ser útil tanto dentro como fuera del entrenamiento. Es un suplemento seguro, fácil de incorporar en la rutina diaria y adecuado para una amplia variedad de deportes, desde entrenamiento de fuerza hasta disciplinas que requieren movimientos explosivos y alta potencia.\n\nEs importante recordar que los suplementos no sustituyen una alimentación equilibrada ni un estilo de vida saludable, pero pueden complementar tu dieta para ayudarte a alcanzar tu máximo potencial y sacar el mayor provecho de tus sesiones de entrenamiento. Usar suplementos de manera responsable, siguiendo las dosis recomendadas y consultando a un profesional de la salud en caso de dudas, garantiza que obtengas todos los beneficios sin riesgos innecesarios.\n\nEn esta sección, nuestro objetivo es ofrecer información clara y basada en evidencia para que puedas tomar decisiones informadas sobre tu suplementación y elegir lo que realmente te puede ayudar a progresar de manera segura y efectiva.",
+          "styles": {
+            "textAlign": "left",
+            "verticalPosition": 0,
+            "fontSize": 16,
+            "fontFamily": "",
+            "fontWeight": "normal",
+            "fontColor": "gray"
+          }
+        }
+      ],
+      "styles": {
+        "width": "100%",
+        "backgroundColor": "black",
+        "backgroundImage": ""
+      }
+    },
+    {
+      "id": "f3982d61-ceb5-4bc8-a02a-26e468170436",
+      "name": "Freestyle 5",
+      "blocks": [
+        {
+          "id": "f0cbddee-dbc8-4681-bf9f-78b39259f8dd",
+          "type": "heading",
+          "value": "Equipo",
+          "styles": {
+            "level": "h2",
+            "textAlign": "center",
+            "verticalPosition": 0,
+            "optional": false,
+            "fontSize": 50,
+            "fontFamily": "",
+            "fontWeight": "extrabold",
+            "fontColor": "white"
+          }
+        },
+        {
+          "id": "c3aa45b4-5039-418c-8556-78499c839720",
+          "type": "layout-container",
+          "blocks": [
+            {
+              "id": "206b2d01-7735-45a6-801c-d18ff5f6034e",
+              "type": "team-member",
+              "name": "Mirian Recalde",
+              "position": "",
+              "photo": "",
+              "styles": {
+                "verticalPosition": 0
+              }
+            },
+            {
+              "id": "8afa3772-1b74-418d-8617-c13fcb1debc8",
+              "type": "team-member",
+              "name": "Francesco",
+              "position": "",
+              "photo": "",
+              "styles": {
+                "verticalPosition": 0
+              }
+            },
+            {
+              "id": "d3a15122-19b4-462e-b239-103fd76ded77",
+              "type": "team-member",
+              "name": "Juan",
+              "position": "",
+              "photo": "",
+              "styles": {
+                "verticalPosition": 0
+              }
+            },
+            {
+              "id": "d78a1964-f04a-4e0e-9aa9-015fa0620eca",
+              "type": "team-member",
+              "name": "Fredy",
+              "position": "",
+              "photo": "",
+              "styles": {
+                "verticalPosition": 0
+              }
+            }
+          ],
+          "styles": {
+            "display": "flex",
+            "flexDirection": "row",
+            "gap": 16,
+            "justifyContent": "flex-start",
+            "alignItems": "stretch"
+          }
+        }
+      ],
+      "styles": {
+        "width": "100%",
+        "backgroundColor": "black",
+        "backgroundImage": ""
+      }
+    }
+  ],
+  "showCalendar": true,
+  "calendarEmbedUrl": "",
+  "showMenu": true,
+  "menuImageUrl": "",
+  "menuDocumentUrl": "",
+  "menuDocumentName": "Speisekarte herunterladen",
+  "showHistory": true,
+  "historyContent": "Erzählen Sie hier die Geschichte Ihres Unternehmens, seine Gründung, Meilensteine und Visionen.",
+  "showImprint": false,
+  "imprintContent": "Fügen Sie hier Ihre Impressumsdaten gemäß den gesetzlichen Bestimmungen ein (Name, Adresse, Kontakt, Handelsregister, etc.).",
+  "showPrivacy": false,
+  "privacyContent": "Fügen Sie hier Ihre Datenschutzerklärung ein, die erläutert, wie Sie mit Nutzerdaten umgehen.",
+  "showReviews": true,
+  "reviewsContent": "Fügen Sie hier positive Kundenrezensionen oder Testimonials ein, um Vertrauen aufzubauen.",
+  "domain": "",
+  "initialLanguage": "de",
+  "nightMode": false
+}
